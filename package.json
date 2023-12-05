@@ -18,7 +18,8 @@
     "validator": "^13.11.0"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "build": "npm run build"
   },
   "name": "week2",
   "version": "1.0.0",
